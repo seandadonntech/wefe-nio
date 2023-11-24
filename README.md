@@ -1,5 +1,5 @@
 # wefe-nio ![GitHub Repo stars](https://img.shields.io/github/stars/seandadonntech/wefe-nio) ![GitHub issues](https://img.shields.io/github/issues/seandadonntech/wefe-nio)
-"C:\Users\seanb\Downloads\🛜WEFE-NIO.png"
+
 
 
 A simple yet power program to collect WIFI name &amp; password,this program is able to write this information in A file.
