@@ -4,7 +4,7 @@
 
 
 
-
+## THIS TOOL MAY NOT WORK IF TARGET IS NOT CONNECTED TO WIFI/OR IS CONNECTED TO ETHERNET
 
 A simple yet power program to collect WIFI name &amp; password,this program is able to write this information in A file.
 
