@@ -4,6 +4,7 @@ A simple yet power program to collect WIFI name &amp; password,this program is a
 ## installation
 in case you don't have nodejs install on your machine click [here](https://nodejs.org/en/) NPM SHOULD COME WITH NODE JS AFTER THIS 
 TYPE THIS IN YOU CMD OR TERMINAL
+optional: >git clone https://github.com/seandadonntech/wefe-nio
 >1. npm i wifi-name
 >2. npm i wifi-password
 >3. npm i fs
