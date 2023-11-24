@@ -4,9 +4,11 @@
 
 
 
-## THIS TOOL MAY NOT WORK IF TARGET IS NOT CONNECTED TO WIFI/OR IS CONNECTED TO ETHERNET
+
 
 A simple yet power program to collect WIFI name &amp; password,this program is able to write this information in A file.
+
+## THIS TOOL MAY NOT WORK IF TARGET IS NOT CONNECTED TO WIFI/OR IS CONNECTED TO ETHERNET
 
 ## installation
 in case you don't have nodejs install on your machine click [here](https://nodejs.org/en/) NPM SHOULD COME WITH NODE JS AFTER THIS 
