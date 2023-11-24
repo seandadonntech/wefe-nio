@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+  
+    "wifi-name": "^3.1.1",
+    "wifi-password": "^3.0.1"
+  }
+}
