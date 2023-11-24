@@ -34,3 +34,4 @@ wifiPassword().then(password => {
  
 });
  ```
+## USE AT YOUR OWN RISK BY USING THIS PROGRAM YOU ARE RESPONSIBLE FOR YOU ACTIONS
