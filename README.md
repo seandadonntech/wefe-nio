@@ -1,4 +1,5 @@
-# wefe-nio
+# wefe-nio ![GitHub watchers](https://img.shields.io/github/watchers/seandadonntech/wefe-nio)
+
 A simple yet power program to collect WIFI name &amp; password,this program is able to write this information in A file.
 
 ## installation
