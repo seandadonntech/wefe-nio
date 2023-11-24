@@ -8,3 +8,4 @@ in case you don't have nodejs install on your machine click [here](https://nodej
 2. npm 
 
 ### Usage
+'test'
