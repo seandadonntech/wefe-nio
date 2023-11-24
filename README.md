@@ -1,7 +1,7 @@
 # wefe-nio
-A simple yet power program to collect WIFI name &amp; password
+A simple yet power program to collect WIFI name &amp; password,this program is able to write this information in A file.
 ## requirements
--nodejs
--npm 
+1.nodejs
+2.npm 
 
 ### Usage
