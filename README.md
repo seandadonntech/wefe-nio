@@ -1,5 +1,7 @@
-# wefe-nio ![GitHub Repo stars](https://img.shields.io/github/stars/seandadonntech/wefe-nio) ![GitHub issues](https://img.shields.io/github/issues/seandadonntech/wefe-nio)
-![image](https://github.com/seandadonntech/wefe-nio/assets/72393350/f2ffebae-69ce-4302-9f30-20e320f39119)
+# wefe-nio ![GitHub issues](https://img.shields.io/github/issues/seandadonntech/wefe-nio)
+![GitHub Repo stars](https://img.shields.io/github/stars/seandadonntech/wefe-nio)
+
+
 
 
 
