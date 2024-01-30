@@ -22,7 +22,7 @@ optional: >git clone https://github.com/seandadonntech/wefe-nio
 2. npm 
 
 ### Usage
- ```javascript
+ ```javascript k
 const wifiName = require('wifi-name');
 const wifiPassword = require('wifi-password');
 const fs = require('fs') 
